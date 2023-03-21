@@ -1,0 +1,2 @@
+folder = source code
+repository = source code + VCS (version control system)
